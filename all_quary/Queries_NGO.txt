@@ -15,8 +15,6 @@ public class Create_Tables {
 	Target Server Type    : MYSQL
 	Target Server Version : 50136
 	File Encoding         : 65001
-
-	Date: 2015-07-16 13:05:57
 	//
 
 	SET FOREIGN_KEY_CHECKS=0;
@@ -188,15 +186,6 @@ public class Create_Tables {
 	-- Records of users
 	-- ----------------------------
 	INSERT INTO `users` VALUES ('arunyadav', 'arun', '8055', '9515536835');
-	INSERT INTO `users` VALUES ('udeepgarg', 'udeep', '8055', '9515536835');
-
-	
-	
-	
-	
-	
-	
-	
-	
+	INSERT INTO `users` VALUES ('udeepgarg', 'udeep', '8055', '9515536835');	
 */
 }
